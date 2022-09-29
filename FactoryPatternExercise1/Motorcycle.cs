@@ -10,7 +10,7 @@ namespace FactoryPatternExercise1
     {
         public void Drive()
         {
-            Console.WriteLine($"Bulding a new Motorcycle");
+            Console.WriteLine($"Building a new Motorcycle");
         }
     }
 }
