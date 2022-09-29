@@ -9,7 +9,7 @@ namespace FactoryPatternExercise1
 {
     //purpose of the VehicleFactory is to ask the user for # of tires and then create a vehicle for them with that 
     //many tires.  
-    public class VehicleFactory
+    public static class VehicleFactory
     {
         public static IVehicle GetVehicle()
         {
